@@ -1,4 +1,4 @@
-User Story: người dùng muốn khóa thẻ từ xa
+User Story: người dùng muốn khóa thẻ từ xa vì muốn bảo toàn tài sản
 
 Story:
 
