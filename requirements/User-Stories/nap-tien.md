@@ -1,4 +1,4 @@
-# USER STORY: Người dùng nạp tiền vào tài khoản ở máy ATM để tăng số dưc
+# USER STORY: Người dùng nạp tiền vào tài khoản ở máy ATM để tăng số dư
 
 ## Story:
 Là người dùng của ngân hàng
