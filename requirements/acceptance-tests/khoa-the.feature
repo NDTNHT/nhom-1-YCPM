@@ -1,19 +1,10 @@
-Feature: khóa thẻ 
- senario: khóa thẻ thành công
-Given 
+Feature: Khóa thẻ
 
-Khách đã có thẻ ATM
+   Scenario: 
+   Given Khách đã có thẻ ATM
+   And Xác minh đúng chủ sở hữu - CCCD là người đã gửi yêu cầu
+   When khách hàng gửi yêu cầu khóa thẻ 
+   Then hệ Thống khóa thẻ được yêu cầu
+   And Hệ thống ghi nhận lại kết quả 
+   Then Thẻ của khách đã được khóa
 
-Xác minh đúng chủ sở hữu - CCCD
-
-When
-Gửi yêu cầu khóa thẻ
-
-Hệ thống thực hiện khóa thẻ
-
-Then
-
-Hệ thống ghi nhận lại kết quả
-
-Thẻ của khách đã được khóa
- 
