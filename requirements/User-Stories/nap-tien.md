@@ -2,7 +2,9 @@
 
 ## Story
 Là người dùng của ngân hàng
+
 Tôi muốn nộp tiền mặt vào tài khoản
+
 Để tăng số dư tài khoản ngân hàng
 
 ## Business Rules
